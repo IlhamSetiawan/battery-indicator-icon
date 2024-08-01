@@ -1,5 +1,5 @@
 {
-  "shell-version": ["45"],
+  "shell-version": ["45", "46"],
   "uuid": "battery-indicator-icon@Deminder",
   "gettext-domain": "battery-indicator-icon",
   "settings-schema": "org.gnome.shell.extensions.battery-indicator-icon",
@@ -7,5 +7,5 @@
   "name": "Battery Indicator Icon",
   "url": "https://github.com/Deminder/battery-indicator-icon",
   "session-modes": ["unlock-dialog", "user"],
-  "version": 10
+  "version": 14
 }
